@@ -10,6 +10,12 @@ Initial Security()
  //Sample Code
 }
 
+Security Patch added()
+{
+//sample code
+
+}
+
 
 
 }
